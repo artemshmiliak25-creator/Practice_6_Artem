@@ -20,7 +20,6 @@ while True:
     число = float(input())
     if число == 0:
         break
-    сума += music_сума = сума + число
     сума += число
 print(сума)
 
